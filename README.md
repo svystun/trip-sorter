@@ -1,6 +1,13 @@
+## Requirements
+PHP >= 7.0.0
+
+Web server: Apache 2.2 or Nginx 1.6
+
+Git, Composer
+
 ## Installation
 
-Git (clone to web server root folder):
+Clone to web server root folder:
 ```
 git clone git@github.com:svystun/trip-sorter.git
 ```

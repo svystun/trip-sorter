@@ -1,0 +1,22 @@
+{
+    "name": "svystun/trip-sorter",
+    "description": "Trip Sorter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Svystun",
+            "email": "svystun@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TripSorter\\": "src/"
+        }
+    }
+}
